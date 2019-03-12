@@ -18,3 +18,8 @@ body {
   margin: auto;
   text-align: right;
 }
+#centered-text {
+  border-style: hidden;
+  margin: auto;
+  text-align: center;
+}
