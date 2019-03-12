@@ -1,0 +1,20 @@
+body {
+  background-color: white;
+  color: black;
+  font-family: Arial;
+}
+.centered-image {
+  border-style: hidden;
+  margin: auto;
+  text-align: center;
+}
+.discord {
+  border-style: hidden;
+  margin: auto;
+  text-align: center;
+}
+.discord2 {
+  border-style: hidden;
+  margin: auto;
+  text-align: right;
+}
