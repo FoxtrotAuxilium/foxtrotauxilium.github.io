@@ -11,3 +11,11 @@ p,h1,h2,h3,h4,h5,h6 {
 h1,h2,h3,h4,h5,h6 {text-align:center;}
 p.center {text-align:center;}
 p.buttons {text-align:center;}
+.box {
+  border: 2px solid #505050;
+  margin: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: left;
+  width: 500px;
+}
